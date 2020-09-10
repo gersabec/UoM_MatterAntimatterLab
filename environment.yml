@@ -1,0 +1,10 @@
+name: uproot-environment
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - uproot
