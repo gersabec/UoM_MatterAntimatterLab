@@ -1,0 +1,3 @@
+wget -q -O B2HHH_MagnetDown.root "https://www.dropbox.com/s/nm7istkjtah00u6/B2HHH_MagnetDown.root?dl=1"
+wget -q -O B2HHH_MagnetUp.root "https://www.dropbox.com/s/mhbhx33rhc26wan/B2HHH_MagnetUp.root?dl=1"
+wget -q -O PhaseSpaceSimulation.root "https://www.dropbox.com/s/nfcuartcswie507/PhaseSpaceSimulation.root?dl=1"
