@@ -2,7 +2,7 @@
 
 3rd year physics data analysis laboratory experiment at the University of Manchester
 
-Copyright 2020-22 The University of Manchester
+Copyright 2020-23 The University of Manchester
 
 
 Contains:
